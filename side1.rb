@@ -1,4 +1,4 @@
-class Side2
+class Side1
   attr_accessor :name, :price
   def initialize(name, price)
     @name = name
